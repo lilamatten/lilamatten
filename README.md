@@ -7,6 +7,7 @@
 - ⚡ Fun fact: My favorite color is my name :)
 
 # Technologies & Tools
+## Design and Art
 - Photoshop
 - InDesign
 - Maya
@@ -15,6 +16,7 @@
 - Houdini
 - Unreal Engine
 
+## Code
 - C#
 - HTML/CSS
 - Windows
