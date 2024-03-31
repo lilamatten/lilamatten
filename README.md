@@ -1,6 +1,6 @@
 # About me
 - 👋 Hi, I’m Lila
-- 👀 I’m interested in art, games and design [Sketchfa](https://sketchfab.com/LilaMatten)
+- 👀 I’m interested in art, games and design [Sketchfab](https://sketchfab.com/LilaMatten)
 - 🌱 I’m currently learning to use InDesign and to better my current art skills
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/lila-matten/)
 - 😄 Pronouns: She/Her
