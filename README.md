@@ -1,10 +1,10 @@
 # About me
 - 👋 Hi, I’m Lila
-- 👀 I’m interested in art, games and design [Sketchfab](https://sketchfab.com/LilaMatten)
-- 🌱 I’m currently learning to use InDesign and to better my current art skills
+- 👀 I’m interested in art, game design and graphic design [Sketchfab](https://sketchfab.com/LilaMatten)
+- 🌱 I’m currently learning to use InDesign bettering my current art skills
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/lila-matten/)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: My favorite color is my name :)
+- ⚡ Fun fact: My favorite color is the same as my name :)
 
 # Technologies & Tools
 ## Design and Art
